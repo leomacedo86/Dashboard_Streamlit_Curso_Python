@@ -36,3 +36,9 @@ banheiros, número de andares e imóveis
 com vista para a água.
 9. Ter autonomia para fazer as 
 minhas próprias análises, através de filtros.
+
+# Solução
+
+Foi desenvolvida em Python, sendo utilizada o Streamlit para criação da URL com o Dashboard Interativo. O Modelo foi colocado em produção via Heroku APP, e disponibilizado na URL abaixo:
+
+https://analytics-leomacedo-hrockets.herokuapp.com/
